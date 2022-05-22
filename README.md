@@ -1,3 +1,17 @@
+# Projeto de Reconhecimento Facial e Reconhecimento de Voz
+
+Fork ou clone o projeto
+
+    git clone https://github.com/OtavioSC/faceRecognition
+
+Instale as depedências
+
+    pip install opencv-python pyttsx3 SpeechRecognition python_weather asyncio requests
+
+Execute
+
+    python3 challenge.py
+
 - ANDERSON RODRIGUES DIAS - RM88008
 - GUSTAVO DIAZ GONZALEZ - RM87142
 - HELLEN CRISTINA PEREIRA BRITO - RM86415
